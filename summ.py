@@ -1,3 +1,6 @@
 a=3
 b=3
-print(a+b)
+print ("the sum of numbers are :"(a*b))
+
+
+
